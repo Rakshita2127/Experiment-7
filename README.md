@@ -41,7 +41,8 @@ Visual Studio Code
 ### Theory:
 Searching for an element in an array involves checking each element to see if it matches the target value. 
 ### Output:
-![output](ArraySearch.jpg)
+![image](https://github.com/user-attachments/assets/230fdec1-04b5-4c22-b2b6-d67fbf9d0ec1)
+
 ### Conclusion:
 We learned how to search an element in the array and also displayed its position along with the number of times it has occurred. 
 
@@ -53,7 +54,8 @@ Visual Studio Code
 ### Theory:
 Calculating the sum and average of elements in an array involves iterating through the array to accumulate the total sum of its elements. Once the sum is obtained, the average can be calculated by dividing the sum by the number of elements in the array.
 ### Output:
-![output](SumAverageOfArray.jpg)
+![image](https://github.com/user-attachments/assets/2df4eade-0874-405c-a2d5-6ce68a9370f7)
+
 ### Conclusion:
 We learned how to calculate sum and average of elements of array. 
 
@@ -65,6 +67,7 @@ Visual Studio Code
 ### Theory:
 Finding the minimum and maximum elements in an array involves iterating through the array while keeping track of the smallest and largest values encountered. By comparing each element to the current minimum and maximum, the algorithm updates these values as needed. 
 ### Output:
-![output](MinMaxElement.jpg)
+![image](https://github.com/user-attachments/assets/0953af48-c21e-4467-92d5-3bb48dd0f8e3)
+
 ### Conclusion:
 We learned how to display the minimum and maximum element of the array. 
